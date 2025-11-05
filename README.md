@@ -32,7 +32,7 @@ Design and analysis of a quadruped robot model using SolidWorks and ANSYS. Focus
 |------------------|----------------------------|
 | ![Leg Motion](./media/leg_motion.gif) | ![Static Analysis](./media/static_analysis.gif) |
 
-*(Add your recorded simulation or motion study GIFs in the `/media` folder and name them as above.)*
+
 
 ---
 
@@ -44,6 +44,6 @@ Design and analysis of a quadruped robot model using SolidWorks and ANSYS. Focus
 ---
 
 ## Author
-**Naman Gupta**  
+**Sahaj Chouhan**  
 B.Tech – Mechanical Engineering  
-[LinkedIn](https://www.linkedin.com/in/naman-gupta-4227/)
+[LinkedIn]([https://www.linkedin.com/in/naman-gupta-4227/](https://www.linkedin.com/in/sahaj-chouhan-013b2723a/))
