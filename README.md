@@ -1,6 +1,6 @@
 # 4-Legged Robot Dog
 
-Design and analysis of a quadruped robot model using SolidWorks and ANSYS. Focus on CAD design, four-bar kinematic linkages, and static structural analysis under fixed loading.
+
 
 ---
 
